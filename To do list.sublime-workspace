@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wait",
+				"Wait_Milli_Seconds"
+			],
+			[
+				"mous",
+				"mousover"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"p1",
+				"p1score"
+			],
+			[
+				"is",
+				"isPurple"
+			],
+			[
+				"Displ",
+				"Display_10_digit_BCD"
+			],
+			[
+				"DO",
+				"DO_SPI_G"
+			],
+			[
+				"Se",
+				"SendString"
+			],
+			[
+				"MY",
+				"MY_MOSI"
+			],
+			[
+				"list",
+				"listTodos"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"A_",
+				"A_hours"
+			],
+			[
+				"A",
+				"A_minutes"
+			],
+			[
+				"ALAR",
+				"ALARMM_CHANGE"
+			],
+			[
+				"a_",
+				"A_hours"
+			],
+			[
+				"Soun",
+				"SOUND_OUT"
+			],
+			[
+				"Add_",
+				"add_Hour"
+			],
+			[
+				"add_",
+				"add_Minute"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"Timer2_increme",
+				"Timer2_increment_h"
+			],
+			[
+				"Timer2_ISR_",
+				"Timer2_ISR_decrement_h"
+			],
+			[
+				"SOUND",
+				"SOUND_OUT"
+			],
+			[
+				"sound",
+				"SOUND_OUT"
+			],
+			[
+				"change",
+				"changetoPM"
+			],
+			[
+				"Ini",
+				"Initial_Message_3"
+			],
+			[
+				"Initia",
+				"Initial_Message_4"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"guess",
+				"Guess"
+			],
+			[
+				"scre",
+				"secretNumber"
+			],
+			[
+				"days",
+				"daysAlive"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"nav",
+				"NavBar"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"Firs",
+				"FirstName"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"dogs",
+				"dogs"
+			],
+			[
+				"page",
+				"Pagerank"
+			],
+			[
+				"dim",
+				"dimension"
+			],
+			[
+				"eva",
+				"engEvalString"
+			],
+			[
+				"test",
+				"testArray"
+			],
+			[
+				"eng",
+				"engEvalString"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"next",
+				"next_state"
+			],
+			[
+				"next_",
+				"next_state"
+			],
+			[
+				"b00",
+				"b001"
+			],
+			[
+				"out",
+				"out"
+			],
+			[
+				"ou",
+				"out"
+			],
+			[
+				"next_st",
+				"next_state"
+			],
+			[
+				"stu",
+				"student_name"
+			],
+			[
+				"student",
+				"student1"
+			],
+			[
+				"SA",
+				"SA"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"next_state",
+				"next_state_reset"
+			],
+			[
+				"next_s",
+				"next_state_reset"
+			],
+			[
+				"KEY",
+				"KEYBOARD_INPUT"
+			],
+			[
+				"KEY_",
+				"KEYBOARD_INPUT"
+			],
+			[
+				"CHAR",
+				"CHAR_FLAG"
+			],
+			[
+				"EXI",
+				"EXIT_IRQ"
+			],
+			[
+				"MPCORE",
+				"MPCORE_PRIV_TIMER"
+			],
+			[
+				"EX",
+				"EXIT_IRQ"
+			],
+			[
+				"FPG",
+				"FPGA_IRQ1_HANDLER"
+			],
+			[
+				"readnu",
+				"readnum_decoded"
+			],
+			[
+				"read",
+				"readnum_decoded"
+			],
+			[
+				"reg",
+				"register"
+			],
+			[
+				"dec",
+				"dec_writenum"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"wr",
+				"dec_writenum"
+			],
+			[
+				"wrt",
+				"writenum"
+			],
+			[
+				"R4",
+				"R4R"
+			],
+			[
+				"end",
+				"endmodule"
+			],
+			[
+				"present",
+				"present_value"
+			],
+			[
+				"previous",
+				"previous_value"
+			],
+			[
+				"daat",
+				"data_out"
+			],
+			[
+				"data",
+				"data_out"
+			],
+			[
+				"data_",
+				"data_out"
+			],
+			[
+				"firs",
+				"first_array"
+			],
+			[
+				"too",
+				"too_cold"
+			],
+			[
+				"IN",
+				"increment"
+			],
+			[
+				"sbar",
+				"sbarContainer"
+			],
+			[
+				"soundB",
+				"soundButton"
+			],
+			[
+				"upda",
+				"updatePlayer"
+			],
+			[
+				"total",
+				"totalSeconds"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pbarCont",
+				"pbarContainer"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "to-dolist.html",
+			"settings":
+			{
+				"buffer_size": 896,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\n</body>\n</html>",
+			"file": "/C/Users/Redwan Mahmud/Desktop/etc.html",
+			"file_size": 0,
+			"file_write_time": 131337400718242044,
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/javaScript/todos.js",
+			"settings":
+			{
+				"buffer_size": 654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/CSS/todos.css",
+			"settings":
+			{
+				"buffer_size": 1477,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/javaScript/lib/jquery-3.1.1.min.js",
+			"settings":
+			{
+				"buffer_size": 86709,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "projec",
+		"selected_items":
+		[
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"py",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"set syntax: ARM",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"python ",
+				"Build With: Python"
+			],
+			[
+				"set Syntax: matl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Get ",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax: ass",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"assembly",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			],
+			[
+				"set Syntax: ARM",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"ver",
+				"Set Syntax: Verilog"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List/Assets",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List/Assets/javaScript",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List/Assets/javaScript/lib"
+	],
+	"file_history":
+	[
+		"/C/Users/Redwan Mahmud/Desktop/temp2.doc",
+		"/C/Users/Redwan Mahmud/Desktop/final90.doc",
+		"/C/Users/Redwan Mahmud/Desktop/finalcode.pdf",
+		"/C/Users/Redwan Mahmud/Downloads/pagetable.s",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List/to-dolist.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/To-do List/To do list.sublime-workspace",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/temp2.py",
+		"/C/Users/Redwan Mahmud/Desktop/Multimeter_Temp(1) (1).pyw",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/stripchart.py",
+		"/C/Users/Redwan Mahmud/Desktop/Passwordloop/CrossIde1.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/Shaelin.asm",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/test.py",
+		"/C/Users/Redwan Mahmud/Desktop/wqoejqwoi.py",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/tkinter.py",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/something.py",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/stripchat.py",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/morepython.py",
+		"/C/Users/Redwan Mahmud/AppData/Local/Programs/Python/Python36-32/lib/site-packages/matplotlib/backends/backend_tkagg.py",
+		"/C/Users/Redwan Mahmud/AppData/Local/Programs/Python/Python36-32/lib/site-packages/six.py",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/trial1.asm",
+		"/C/Users/Redwan Mahmud/Desktop/code.asm",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/time.py",
+		"/C/Users/Redwan Mahmud/Downloads/stripchart_sinewave.py",
+		"/C/Users/Redwan Mahmud/Desktop/Python/whileloop.py",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Jquery/jqueryDemo.html",
+		"/C/Users/Redwan Mahmud/Desktop/PROJECT1/blablabla.py",
+		"/C/Users/Redwan Mahmud/AppData/Local/Programs/Python/Python36-32/lib/site-packages/serial/serialwin32.py",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/game.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Jquery/jQueryEx.html",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/New folder (2)/Thermalcouple.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/New folder (2)/state.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/New folder (2)/state.lst",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/New folder (2)/math32.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/New folder (2)/SPI_L3P2.asm",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/moreevents.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/moreevents.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/keeper.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/scorekeeper.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/scorekeeper.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/toggle.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Dom manipulation/color_t_exc.html",
+		"/C/Users/Redwan Mahmud/Downloads/Multimeter_Temp(1).pyw",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/module3new.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/module3.asm",
+		"/C/Users/Redwan Mahmud/Downloads/kconvert(1).py",
+		"/C/Users/Redwan Mahmud/Downloads/last.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/real_time_data_serial.m",
+		"/C/Users/Redwan Mahmud/Desktop/Untitled.m",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/Plotter.m",
+		"/C/Users/Redwan Mahmud/Downloads/stripchart_sinewave(1).py",
+		"/C/Users/Redwan Mahmud/Desktop/real_time_data_serial.m",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/Plotter2.m",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/math.asm",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 3/helloworld.asm",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/list.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/objects.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/objects.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/arrasol.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/list.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/arrays.html",
+		"/C/Users/Redwan Mahmud/Desktop/lab2 draft.s",
+		"/C/Users/Redwan Mahmud/Desktop/2nd year Elec/ELEC 291/Module 2/Samin lab.s",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/purrfect.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/landingpage.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/functions.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/functions.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/whileloops.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/whileloops.html",
+		"/C/Users/Redwan Mahmud/Desktop/Python/text1.py",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/Game.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/script.js",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 8 JavaScript/index.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/grid.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/imagegal.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/Imagegallery.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/Navbar.html",
+		"/C/Users/Redwan Mahmud/Desktop/gallery.html",
+		"/C/Users/Redwan Mahmud/Downloads/part3 (1).s",
+		"/C/Users/Redwan Mahmud/Downloads/part2.s",
+		"/C/Users/Redwan Mahmud/Downloads/part2 (2).s",
+		"/C/Users/Redwan Mahmud/Downloads/part2 (1).s",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 7 Bootstrap/Bootstrapbasics.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/blog.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/blog.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/imageblog.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/tictactoe.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/tictactoe.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/boxmodel.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/boxmodel.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/photos.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/09_Selector_Exercise_Starter/styles.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/09_Selector_Exercise_Starter/Fonts.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/specificity.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/todo.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/todolist.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/app.css",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 5 and 6 CSS/aboutme.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/dropdown and other inputs.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/form_exercise.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/Form.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/recreateweb.html",
+		"/C/Users/Redwan Mahmud/Desktop/version-control/reflections/lesson_1_reflections.txt",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/first assignment.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/firstpage.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/TablePokemonex.html",
+		"/C/Users/Redwan Mahmud/Desktop/Web dev bootcamp/Section 3/tables.html",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/CPSC259_Lab4_TakeHomeFramework/CPSC259_Lab4_TakeHomeFramework/mazesolver.h",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/CPSC259_Lab4_TakeHomeFramework/CPSC259_Lab4_TakeHomeFramework/mazesolver.c",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/Practice C/Arrays and pointers.c",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/CPSC259_Leb5_TakeHome/project5/pagerank.c",
+		"/C/Users/Redwan Mahmud/Downloads/fpadd.s",
+		"/C/Users/Redwan Mahmud/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/377/pagerank[466].c",
+		"/C/Users/Redwan Mahmud/Desktop/ppt/FSMJ_tb.v",
+		"/C/Users/Redwan Mahmud/Desktop/CPEN 211/PPT/topmodule_tb.v",
+		"/C/Users/Redwan Mahmud/Desktop/CPEN 211/PPT/q2.v",
+		"/C/Users/Redwan Mahmud/Desktop/CPEN 211/PPT/q1.v",
+		"/C/Users/Redwan Mahmud/Desktop/ppt/FSMJ2.v",
+		"/C/Users/Redwan Mahmud/Desktop/q1/q1.v",
+		"/C/Users/Redwan Mahmud/Desktop/ppt/FSMJ.v",
+		"/C/Users/Redwan Mahmud/Desktop/ppt/FSM3.v",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/Practice C/Structs.c",
+		"/C/Users/Redwan Mahmud/Desktop/CPSC 259/Practice C/pointers.c",
+		"/C/Users/Redwan Mahmud/Desktop/ppt/FSM2",
+		"/C/Users/Redwan Mahmud/desktop/ppt/FSM1.v",
+		"/C/Users/Redwan Mahmud/Desktop/CPEN 211/Lab10part2/part2.s",
+		"/C/Users/Redwan Mahmud/Desktop/CPEN 211/lab10part3/part3.s"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"killyou",
+			"bitch",
+			"cunt",
+			"Delay",
+			"TextArea",
+			"CheckButtons",
+			"Button",
+			"animation",
+			"plt",
+			"a1",
+			"main",
+			"state1",
+			"pwm",
+			"state2",
+			"ISR_",
+			"timer1",
+			"timer0",
+			"timer 0",
+			"SWA",
+			"CheckInput",
+			"empty",
+			"party",
+			"check:",
+			"label1",
+			"skip_blank:",
+			"R1",
+			"INIT_SPI",
+			"INI_SPI",
+			"INIT_SPI",
+			"Result",
+			"CPL SOUND_OUT",
+			"SOUND_OUT",
+			"3.7",
+			"INCHOUR",
+			"inc",
+			"(2, 9",
+			"Initial_Message_4",
+			"r1",
+			"PM",
+			"clr TR2",
+			"clr tr2",
+			"SECONDS",
+			" b ",
+			"BCD_counter",
+			"TR0",
+			" a ",
+			"mov a",
+			"BCD_COUNTER",
+			"<a",
+			"blink",
+			"WaitHalfSec",
+			"waithalfsec",
+			"navbar",
+			"brand",
+			" <div class=\"col-lg-4 col-sm-6\">\n        <div class=\"thumbnail\">\n          <img src=\"https://images.unsplash.com/photo-1434543177303-ef2cc7707e0d?dpr=2&fit=crop&fm=jpg&h=825&q=50&w=1450\">\n        </div>\n      </div>\n      <div class=\"col-lg-4 col-sm-6\">\n        <div class=\"thumbnail\">\n          <img src=\"https://images.unsplash.com/photo-1436262513933-a0b06755c784?dpr=2&fit=crop&fm=jpg&h=825&q=50&w=1450\">\n        </div>\n      </div>\n      <div class=\"col-lg-4 col-sm-6\">\n        <div class=\"thumbnail\">\n          <img src=\"https://images.unsplash.com/photo-1439396087961-98bc12c21176?dpr=2&fit=crop&fm=jpg&h=825&q=50&w=1450\">\n        </div>\n      </div>\n      <div class=\"col-lg-4 col-sm-6\">\n        <div class=\"thumbnail\">\n          <img src=\"https://images.unsplash.com/photo-1439694458393-78ecf14da7f9?dpr=2&fit=crop&fm=jpg&h=825&q=50&w=1450\">\n      </div>\n    </div>",
+			"col-lg-4",
+			"col-md",
+			"col-lg-4",
+			"md",
+			"4",
+			"<div class=\"col-lg-3 pink\">COL LG 4 </div>\n\t",
+			"collaps",
+			"\t\n",
+			"</p>",
+			"<p>",
+			"malloc",
+			"error",
+			"BUFFER",
+			"dim",
+			"mode",
+			"fp",
+			"CHAR_BUFFER",
+			"IDLE",
+			"KEYS",
+			"config_gic",
+			"KEYS",
+			"0xc",
+			"R7",
+			"KEYS_IRQ",
+			"TIMER_IRQ",
+			"L1",
+			"SERVICE_IRQ",
+			"IRQ",
+			"JTAG",
+			"parse_maze",
+			"end_key_ISR",
+			"R12",
+			"R4",
+			"r0",
+			"R10",
+			"R12",
+			"R8",
+			"question ",
+			"skip",
+			"R8",
+			"path_cost",
+			"shortest",
+			"cost",
+			"*paths",
+			".equ",
+			"PbarContainer",
+			"pbarContainer",
+			"pbarCon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SECONDS",
+			"Delay"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "to-dolist.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Redwan Mahmud/Desktop/etc.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/javaScript/todos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/CSS/todos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								982,
+								982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/javaScript/lib/jquery-3.1.1.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86709,
+								86709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.947807933194,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "To do list.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Redwan Mahmud\\Desktop\\wqoejqwoi.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
